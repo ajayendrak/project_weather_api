@@ -1,0 +1,45 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    color: rgb(180, 21, 21);
+    
+    vertical-align: middle;
+}
+.containerweather{
+    margin: auto 500px;
+}
+.containersearch{
+    margin: 20px 500px;
+
+}
+.containersearch button{
+    margin-top: 20px;
+}
+
+.list-group-item{
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+body{
+    background-image: url('/static/clouds.jpg');
+    background-size: cover;
+    
+    height: 100vh;
+    padding:100px 50px;
+    margin:0;
+    
+}
+.containerweather img{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
