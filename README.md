@@ -14,12 +14,13 @@ Technologies used-
 5. Bootstrap
 6. Heroku
 
-Api- This web app retrieves data from openweathermap.org using the api key. 
+Api- 
+1. This web app retrieves data from openweathermap.org using the api key. 
 
 Directory folders-
-Configuration folder- weatherapi
-application folders - weather
-static and templates folder
+1. Configuration folder- weatherapi
+2. application folders - weather
+3. static and templates folder
 
 features-
-Website shows respective weather data for given city.
+1. Website shows respective weather data for given city.
